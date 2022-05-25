@@ -1,2 +1,6 @@
 *venv*
 *creds.py*
+*connections/postgres.py*
+*connections/mssql.py*
+*__pycache__*
+*ignore-*
